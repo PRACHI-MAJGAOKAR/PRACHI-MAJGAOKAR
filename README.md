@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Prachi Majgaokar</h1>
+<h1 align="center">Hi, I'm Prachi Majgaokar</h1>
 <h3 align="center">Data Analyst | Machine Learning & AI Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prachimajgaokar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:prachimajgaokar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
-
----
 
 ### 👩‍💻 About Me
 
@@ -17,7 +15,6 @@
 - 📄 My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
 - ⚡ Fun fact: I've gone from voice-based gender classification (DRDO) to insurance fraud detection to legacy code graphing — I like problems that involve turning messy signals into structured insight
 
----
 
 ### 🛠️ Tech Stack
 
