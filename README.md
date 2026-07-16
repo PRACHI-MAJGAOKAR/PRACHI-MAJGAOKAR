@@ -107,7 +107,7 @@ Built and benchmarked CNN/FNN/LSTM models for voice-based gender classification,
 ![](https://streak-stats.demolab.com/?user=PRACHI-MAJGAOKAR&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PRACHI-MAJGAOKAR&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://komarev.com/ghpvc/?username=PRACHI-MAJGAOKAR&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 ### 📫 Connect with me
 
