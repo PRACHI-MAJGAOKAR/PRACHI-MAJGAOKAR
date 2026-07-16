@@ -15,6 +15,7 @@
 - My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
 - Fun fact: I've gone from voice-based gender classification (DRDO) to insurance fraud detection to legacy code graphing. I like problems that involve turning messy signals into structured insight
 
+---
 
 ### Tech Stack
 
@@ -109,7 +110,7 @@ Built and benchmarked CNN/FNN/LSTM models for voice-based gender classification,
 
 
 ---
-### 📫 Connect with me
+###  Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/prachimajgaokar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
