@@ -9,7 +9,7 @@
 ### About Me
 
 - M.Tech in Data Science @ COEP Technological University, Pune (2024–2026)
-- Currently working as an **AI Development Intern** at Acism Software, building an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
+- Currently working as an **AI Development Intern** at Acism Software, •	Architected an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
 - I build end-to-end data pipelines from messy raw data to BI dashboards to explainable ML models
 - Deep-diving into **RAG, multi-agent systems, and the Model Context Protocol (MCP)**
 - My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
@@ -81,17 +81,18 @@
 ###  Experience
 
 **AI Development Intern** : Acism Software Private Limited, Pune *(Mar 2026 – Present)*
-Architecting an 8-stage multi-agent pipeline (AST extraction → behavior classification → context resolution → control/data flow mapping → graph assembly) using LangGraph to convert legacy source code into structured execution graphs, with a hybrid rule-based + local LLM classifier.
+Architecting an 8-stage multi-agent pipeline  using LangGraph to convert legacy source code into structured execution graphs, with a hybrid rule-based + local LLM classifier. Implemented MCP tool-calling with Fernet-encrypted intermediate outputs, enabling secure, auditable pipeline execution.
 
 **Data Analyst (Remote)** : SUMAX Automation Systems, Pune *(Dec 2025 – Mar 2026)*
-Built a SQL-based automation pipeline and REST API platform to streamline service tracking for 170+ dental college clients across India.
+Built a SQL-based automation pipeline and REST API platform to streamline service tracking for 170+ dental college clients across India. 
 
 **Project Intern** : DRDO, Pune *(Jul 2023 – Dec 2023)*
-Built and benchmarked CNN/FNN/LSTM models for voice-based gender classification, achieving 96.26% accuracy.
+Trained and benchmarked CNN/FNN/LSTM models for voice-based gender classification, achieving 96.26% accuracy. Integrated real-time keyword recognition via the Web Speech API and designed the front-end interface using HTML, CSS, and JavaScript.
 
 **Teaching Assistant** : COEP Technological University, Pune *(Aug 2025 – Apr 2026, part-time)*
 
 **Jr. Web Developer & Technical Content Writer** — Keetronics (India) Pvt. Ltd., Pune *(Aug 2024)*
+Built a simulation tool for smart switch customization and quote generation, streamlining marketing workflows and improving customer interaction through social sharing features. Authored 3 case studies and 12 SEO-optimized blogs on home automation, 
 
 ---
 
