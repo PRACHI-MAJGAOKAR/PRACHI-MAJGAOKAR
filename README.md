@@ -6,17 +6,17 @@
   <a href="mailto:prachimajgaokar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 M.Tech in Data Science @ COEP Technological University, Pune (2024–2026)
-- 🔭 Currently working as an **AI Development Intern** at Acism Software, building an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
-- 📊 I build end-to-end data pipelines — from messy raw data to BI dashboards to explainable ML models
-- 🌱 Deep-diving into **RAG, multi-agent systems, and the Model Context Protocol (MCP)**
-- 📄 My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
-- ⚡ Fun fact: I've gone from voice-based gender classification (DRDO) to insurance fraud detection to legacy code graphing — I like problems that involve turning messy signals into structured insight
+- M.Tech in Data Science @ COEP Technological University, Pune (2024–2026)
+- Currently working as an **AI Development Intern** at Acism Software, building an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
+- I build end-to-end data pipelines — from messy raw data to BI dashboards to explainable ML models
+- Deep-diving into **RAG, multi-agent systems, and the Model Context Protocol (MCP)**
+- My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
+- Fun fact: I've gone from voice-based gender classification (DRDO) to insurance fraud detection to legacy code graphing — I like problems that involve turning messy signals into structured insight
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -77,28 +77,28 @@
 
 ---
 
-### 💼 Experience
+###  Experience
 
-**AI Development Intern** — Acism Software Private Limited, Pune *(Mar 2026 – Present)*
+**AI Development Intern** : Acism Software Private Limited, Pune *(Mar 2026 – Present)*
 Architecting an 8-stage multi-agent pipeline (AST extraction → behavior classification → context resolution → control/data flow mapping → graph assembly) using LangGraph to convert legacy source code into structured execution graphs, with a hybrid rule-based + local LLM classifier.
 
-**Data Analyst (Remote)** — SUMAX Automation Systems, Pune *(Dec 2025 – Mar 2026)*
+**Data Analyst (Remote)** : SUMAX Automation Systems, Pune *(Dec 2025 – Mar 2026)*
 Built a SQL-based automation pipeline and REST API platform to streamline service tracking for 170+ dental college clients across India.
 
-**Project Intern** — DRDO, Pune *(Jul 2023 – Dec 2023)*
+**Project Intern** : DRDO, Pune *(Jul 2023 – Dec 2023)*
 Built and benchmarked CNN/FNN/LSTM models for voice-based gender classification, achieving 96.26% accuracy.
 
-**Teaching Assistant** — COEP Technological University, Pune *(Aug 2025 – Apr 2026, part-time)*
+**Teaching Assistant** : COEP Technological University, Pune *(Aug 2025 – Apr 2026, part-time)*
 
 **Jr. Web Developer & Technical Content Writer** — Keetronics (India) Pvt. Ltd., Pune *(Aug 2024)*
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-- **[Bank Transactions Star Schema & BI Dashboard](https://github.com/PRACHI-MAJGAOKAR)** — Star-schema warehouse from 100K transactions with SCD Type 2 and a 10-measure Power BI dashboard.
-- **[Insurance Claims Leakage & Fraud Risk Pipeline](https://github.com/PRACHI-MAJGAOKAR)** — End-to-end fraud detection on 20K+ claims using Isolation Forest, SHAP, and Airflow orchestration.
-- **Spatio-Temporal Groundwater Recharge Forecasting** *(Dissertation)* — Temporal Fusion Transformer + CatBoost pipeline benchmarking 14 CMIP6 climate models; presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026.
+- **[Bank Transactions Star Schema & BI Dashboard](https://github.com/PRACHI-MAJGAOKAR)** : Star-schema warehouse from 100K transactions with SCD Type 2 and a 10-measure Power BI dashboard.
+- **[Insurance Claims Leakage & Fraud Risk Pipeline](https://github.com/PRACHI-MAJGAOKAR)** : End-to-end fraud detection on 20K+ claims using Isolation Forest, SHAP, and Airflow orchestration.
+- **Spatio-Temporal Groundwater Recharge Forecasting** *(Dissertation)* : Temporal Fusion Transformer + CatBoost pipeline benchmarking 14 CMIP6 climate models; presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026.
 
 ---
 
