@@ -10,10 +10,10 @@
 
 - M.Tech in Data Science @ COEP Technological University, Pune (2024–2026)
 - Currently working as an **AI Development Intern** at Acism Software, building an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
-- I build end-to-end data pipelines — from messy raw data to BI dashboards to explainable ML models
+- I build end-to-end data pipelines from messy raw data to BI dashboards to explainable ML models
 - Deep-diving into **RAG, multi-agent systems, and the Model Context Protocol (MCP)**
 - My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
-- Fun fact: I've gone from voice-based gender classification (DRDO) to insurance fraud detection to legacy code graphing — I like problems that involve turning messy signals into structured insight
+- Fun fact: I've gone from voice-based gender classification (DRDO) to insurance fraud detection to legacy code graphing. I like problems that involve turning messy signals into structured insight
 
 
 ### Tech Stack
