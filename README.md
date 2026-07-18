@@ -103,14 +103,6 @@ Built a simulation tool for smart switch customization and quote generation, str
 - **Spatio-Temporal Groundwater Recharge Forecasting** *(Dissertation)* : Temporal Fusion Transformer + CatBoost pipeline benchmarking 14 CMIP6 climate models; presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026.
 
 ---
-
-### GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PRACHI-MAJGAOKAR&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PRACHI-MAJGAOKAR&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PRACHI-MAJGAOKAR&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
----
 ###  Connect with me
 
 <p align="left">
