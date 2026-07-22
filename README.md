@@ -9,11 +9,11 @@
 ### About Me
 
 - M.Tech in Data Science @ COEP Technological University, Pune (2024–2026)
-- Currently working as an **AI Development Intern** at Acism Software, •	Architected an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
+- Currently working as an **AI Development Intern** at Acism Software, Architected an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
 - I build end-to-end data pipelines from messy raw data to BI dashboards to explainable ML models
 - Deep-diving into **RAG, multi-agent systems, and the Model Context Protocol (MCP)**
 - My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
-- Fun fact: I've gone from voice-based gender classification (DRDO) to insurance fraud detection to legacy code graphing. I like problems that involve turning messy signals into structured insight
+
 
 ---
 
@@ -49,8 +49,6 @@
 **Data Engineering**
 <p>
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat"/>
@@ -81,26 +79,37 @@
 ###  Experience
 
 **AI Development Intern** : Acism Software Private Limited, Pune *(Mar 2026 – Present)*
-Architecting an 8-stage multi-agent pipeline  using LangGraph to convert legacy source code into structured execution graphs, with a hybrid rule-based + local LLM classifier. Implemented MCP tool-calling with Fernet-encrypted intermediate outputs, enabling secure, auditable pipeline execution.
+•	Architected an 8-stage multi-agent pipeline (AST extraction, behavior classification, context resolution, control/data flow mapping, graph assembly) using LangGraph to convert legacy source code into structured execution graphs across multiple projects.
+•	Designed a hybrid rule-based and local LLM (Qwen2.5-Coder via Ollama) classification system with confidence-scored fallback, replacing hardcoded pattern-matching and improving node-classification generalizability.
+•	Implemented MCP tool-calling with Fernet-encrypted intermediate outputs, enabling secure, auditable pipeline execution.
 
 **Data Analyst (Remote)** : SUMAX Automation Systems, Pune *(Dec 2025 – Mar 2026)*
-Built a SQL-based automation pipeline and REST API platform to streamline service tracking for 170+ dental college clients across India. 
+•	Automated a SQL-based automation pipeline to track machine service cycles and trigger automated email alerts, reducing manual follow-up effort for 170+ dental college clients nationwide.
+•	Created a scalable web platform with a REST API backend and centralized database, streamlining service requests, product inquiries, and operational workflows. 
 
-**Project Intern** : DRDO, Pune *(Jul 2023 – Dec 2023)*
-Trained and benchmarked CNN/FNN/LSTM models for voice-based gender classification, achieving 96.26% accuracy. Integrated real-time keyword recognition via the Web Speech API and designed the front-end interface using HTML, CSS, and JavaScript.
+**Project Intern** : Defence Research & Development Organization (DRDO), Pune *(Jul 2023 – Dec 2023)*
+•	Trained and benchmarked CNN, FNN, and LSTM models for voice-based gender classification on the Common Voice dataset, achieving 96.26% accuracy with CNN, outperforming FNN and LSTM by 3–5%.
+•	Implemented MFCC and Chroma feature extraction pipelines and applied cross-validation and hyperparameter tuning to optimize precision, recall, and F1-score across all three architectures.
+•	Integrated real-time keyword recognition via the Web Speech API and designed the front-end interface using HTML, CSS, and JavaScript.
+
 
 **Teaching Assistant** : COEP Technological University, Pune *(Aug 2025 – Apr 2026, part-time)*
+•	Supported course delivery part-time (8 hrs/week) during the M.Tech program alongside coursework and research.
 
-**Jr. Web Developer & Technical Content Writer** — Keetronics (India) Pvt. Ltd., Pune *(Aug 2024)*
-Built a simulation tool for smart switch customization and quote generation, streamlining marketing workflows and improving customer interaction through social sharing features. Authored 3 case studies and 12 SEO-optimized blogs on home automation, 
+**Jr. Web Developer & Technical Content Writer** : Keetronics (India) Pvt. Ltd., Pune *(Aug 2024)*
+•	Built a simulation tool for smart switch customization and quote generation, streamlining marketing workflows and improving customer interaction through social sharing features.
+•	Authored 3 case studies and 12 SEO-optimized blogs on home automation, strengthening customer engagement and content marketing reach.
+ 
 
 ---
 
 ###  Featured Projects
 
-- **[Bank Transactions Star Schema & BI Dashboard](https://github.com/PRACHI-MAJGAOKAR)** : Star-schema warehouse from 100K transactions with SCD Type 2 and a 10-measure Power BI dashboard.
-- **[Insurance Claims Leakage & Fraud Risk Pipeline](https://github.com/PRACHI-MAJGAOKAR)** : End-to-end fraud detection on 20K+ claims using Isolation Forest, SHAP, and Airflow orchestration.
-- **Spatio-Temporal Groundwater Recharge Forecasting** *(Dissertation)* : Temporal Fusion Transformer + CatBoost pipeline benchmarking 14 CMIP6 climate models; presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026.
+- **[Multi-Temporal-Crop-Classification-Using-Sentinel-2-Imagery]([https://github.com/PRACHI-MAJGAOKAR](https://github.com/PRACHI-MAJGAOKAR/Multi-Temporal-Crop-Classification-Using-Sentinel-2-Imagery))** : Crop classification pipeline using Random Forest, UNet and vit SSL4EO-S12 via TorchGeo.
+- **[Automated-Business-Intelligence-Agent]([https://github.com/PRACHI-MAJGAOKAR](https://github.com/PRACHI-MAJGAOKAR/Automated-Business-Intelligence-Agent))** : AI-powered Business Intelligence Agent using LangGraph, Gemini Flash, Prophet, and Streamlit. An AI-powered BI system that answers plain-English questions about NSE stock data, selects chart types autonomously, detects anomalies, and generates PDF reports.
+- **Spatio-Temporal AI Framework for Groundwater Recharge & Climate Vulnerability Forecasting** *(Dissertation)* : : Forecast groundwater recharge and assess climate vulnerability across 4 districts using incomplete satellite records. Engineered a two-stage deep learning pipeline (Temporal Fusion Transformer + CatBoost) analyzing 10+ satellite-derived spatio-temporal parameters; benchmarked 14 CMIP6 GCMs under SSP2-4.5/SSP5-8.5 scenarios to build a bias-corrected 5-model climate ensemble; applied SHAP explainability and a custom Intrinsic Groundwater Vulnerability Index (IGVI).
+Identified key climate drivers and ranked district-level risk; research presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia.
+
 
 ---
 ###  Connect with me
