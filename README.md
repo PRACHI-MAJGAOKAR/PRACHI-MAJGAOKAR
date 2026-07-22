@@ -105,8 +105,8 @@
 
 ###  Featured Projects
 
-- **[[[Multi-Temporal-Crop-Classification-Using-Sentinel-2-Imagery]([url](https://github.com/PRACHI-MAJGAOKAR](https://github.com/PRACHI-MAJGAOKAR/Multi-Temporal-Crop-Classification-Using-Sentinel-2-Imagery))]]** : Crop classification pipeline using Random Forest, UNet and vit SSL4EO-S12 via TorchGeo.
-- **[Automated-Business-Intelligence-Agent]([https://github.com/PRACHI-MAJGAOKAR](https://github.com/PRACHI-MAJGAOKAR/Automated-Business-Intelligence-Agent))** : AI-powered Business Intelligence Agent using LangGraph, Gemini Flash, Prophet, and Streamlit. An AI-powered BI system that answers plain-English questions about NSE stock data, selects chart types autonomously, detects anomalies, and generates PDF reports.
+- **[[Multi-Temporal-Crop-Classification-Using-Sentinel-2-Imagery](https://github.com/PRACHI-MAJGAOKAR/Multi-Temporal-Crop-Classification-Using-Sentinel-2-Imagery)]** : Crop classification pipeline using Random Forest, UNet and vit SSL4EO-S12 via TorchGeo.
+- **[[Automated-Business-Intelligence-Agent](https://github.com/PRACHI-MAJGAOKAR/Automated-Business-Intelligence-Agent)]** : AI-powered Business Intelligence Agent using LangGraph, Gemini Flash, Prophet, and Streamlit. An AI-powered BI system that answers plain-English questions about NSE stock data, selects chart types autonomously, detects anomalies, and generates PDF reports.
 - **Spatio-Temporal AI Framework for Groundwater Recharge & Climate Vulnerability Forecasting** *(Dissertation)* : : Forecast groundwater recharge and assess climate vulnerability across 4 districts using incomplete satellite records. Engineered a two-stage deep learning pipeline (Temporal Fusion Transformer + CatBoost) analyzing 10+ satellite-derived spatio-temporal parameters; benchmarked 14 CMIP6 GCMs under SSP2-4.5/SSP5-8.5 scenarios to build a bias-corrected 5-model climate ensemble; applied SHAP explainability and a custom Intrinsic Groundwater Vulnerability Index (IGVI).
 Identified key climate drivers and ranked district-level risk; research presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia.
 
