@@ -78,23 +78,23 @@
 
 ###  Experience
 
-**AI Development Intern** : Acism Software Private Limited, Pune *(Mar 2026 – Present)*
+**AI Development Intern** : **Acism Software Private Limited, Pune** **(Mar 2026 – Present)**
 •	Architected an 8-stage multi-agent pipeline (AST extraction, behavior classification, context resolution, control/data flow mapping, graph assembly) using LangGraph to convert legacy source code into structured execution graphs across multiple projects.
 •	Designed a hybrid rule-based and local LLM (Qwen2.5-Coder via Ollama) classification system with confidence-scored fallback, replacing hardcoded pattern-matching and improving node-classification generalizability.
 •	Implemented MCP tool-calling with Fernet-encrypted intermediate outputs, enabling secure, auditable pipeline execution.
 
-**Data Analyst (Remote)** : SUMAX Automation Systems, Pune *(Dec 2025 – Mar 2026)*
+**Data Analyst (Remote)** : **SUMAX Automation Systems, Pune** **(Dec 2025 – Mar 2026)**
 •	Automated a SQL-based automation pipeline to track machine service cycles and trigger automated email alerts, reducing manual follow-up effort for 170+ dental college clients nationwide.
 •	Created a scalable web platform with a REST API backend and centralized database, streamlining service requests, product inquiries, and operational workflows. 
 
-**Teaching Assistant** : COEP Technological University, Pune *(Aug 2025 – Apr 2026, part-time)*
+**Teaching Assistant** : **COEP Technological University, Pune** **(Aug 2025 – Apr 2026, part-time)** 
 •	Supported course delivery part-time (8 hrs/week) during the M.Tech program alongside coursework and research.
 
-**Jr. Web Developer & Technical Content Writer** : Keetronics (India) Pvt. Ltd., Pune *(Aug 2024)*
+**Jr. Web Developer & Technical Content Writer** : **Keetronics (India) Pvt. Ltd., Pune** **(Aug 2024)**
 •	Built a simulation tool for smart switch customization and quote generation, streamlining marketing workflows and improving customer interaction through social sharing features.
 •	Authored 3 case studies and 12 SEO-optimized blogs on home automation, strengthening customer engagement and content marketing reach.
 
-**Project Intern** : Defence Research & Development Organization (DRDO), Pune *(Jul 2023 – Dec 2023)*
+**Project Intern** : **Defence Research & Development Organization (DRDO), Pune** **(Jul 2023 – Dec 2023)**
 •	Trained and benchmarked CNN, FNN, and LSTM models for voice-based gender classification on the Common Voice dataset, achieving 96.26% accuracy with CNN, outperforming FNN and LSTM by 3–5%.
 •	Implemented MFCC and Chroma feature extraction pipelines and applied cross-validation and hyperparameter tuning to optimize precision, recall, and F1-score across all three architectures.
 •	Integrated real-time keyword recognition via the Web Speech API and designed the front-end interface using HTML, CSS, and JavaScript. 
