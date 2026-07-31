@@ -108,19 +108,7 @@
 - **Spatio-Temporal AI Framework for Groundwater Recharge & Climate Vulnerability Forecasting** *(Dissertation)* : : Forecast groundwater recharge and assess climate vulnerability across 4 districts using incomplete satellite records. Engineered a two-stage deep learning pipeline (Temporal Fusion Transformer + CatBoost) analyzing 10+ satellite-derived spatio-temporal parameters; benchmarked 14 CMIP6 GCMs under SSP2-4.5/SSP5-8.5 scenarios to build a bias-corrected 5-model climate ensemble; applied SHAP explainability and a custom Intrinsic Groundwater Vulnerability Index (IGVI).
 Identified key climate drivers and ranked district-level risk; research presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia.
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PRACHI-MAJGAOKAR&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PRACHI-MAJGAOKAR&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRACHI-MAJGAOKAR&layout=compact&theme=tokyonight"/>
-
-</p>
 ---
 ###  Connect with me
 
