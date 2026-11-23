@@ -78,16 +78,16 @@
 
 ###  Experience
 
-**AI Development Intern** : **Acism Software Private Limited, Pune** **(Mar 2026 – Oct 2026)**                                               
+**AI Development Intern** : **Acism Software Private Limited, Pune** **(Mar 2026 – Oct 2026)**                                                
 •	Architected an 8-stage multi-agent pipeline (AST extraction, behavior classification, context resolution, control/data flow mapping, graph assembly) using LangGraph to convert legacy source code into structured execution graphs across multiple projects.
 •	Designed a hybrid rule-based and local LLM (Qwen2.5-Coder via Ollama) classification system with confidence-scored fallback, replacing hardcoded pattern-matching and improving node-classification generalizability.
 •	Implemented MCP tool-calling with Fernet-encrypted intermediate outputs, enabling secure, auditable pipeline execution.
 
-**Data Analyst (Remote)** : **SUMAX Automation Systems, Pune** **(Dec 2025 – Mar 2026)**
+**Data Analyst (Remote)** : **SUMAX Automation Systems, Pune** **(Dec 2025 – Mar 2026)**                                                        
 •	Automated a SQL-based automation pipeline to track machine service cycles and trigger automated email alerts, reducing manual follow-up effort for 170+ dental college clients nationwide.
 •	Created a scalable web platform with a REST API backend and centralized database, streamlining service requests, product inquiries, and operational workflows. 
 
-**Teaching Assistant** : **COEP Technological University, Pune** **(Aug 2025 – Apr 2026, part-time)** 
+**Teaching Assistant** : **COEP Technological University, Pune** **(Aug 2025 – Apr 2026, part-time)**                                                
 •	Supported course delivery part-time (8 hrs/week) during the M.Tech program alongside coursework and research.
 
 **Jr. Web Developer & Technical Content Writer** : **Keetronics (India) Pvt. Ltd., Pune** **(Aug 2024)**                                      
