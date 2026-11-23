@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prachi Majgaokar</h1>
-<h3 align="center">Data Analyst | Machine Learning & AI Engineer</h3>
+<h3 align="center"> Python Developer | Machine Learning & AI Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prachimajgaokar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 ### About Me
 
 - M.Tech in Data Science @ COEP Technological University, Pune (2024–2026)
-- Currently working as an **AI Development Intern** at Acism Software, Architected an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
+- Worked as an **AI Development Intern** at Acism Software, Architected an 8-stage multi-agent pipeline that converts legacy source code into structured execution graphs using LangGraph + local LLMs
 - I build end-to-end data pipelines from messy raw data to BI dashboards to explainable ML models
 - Deep-diving into **RAG, multi-agent systems, and the Model Context Protocol (MCP)**
 - My dissertation on groundwater recharge forecasting was presented at IIT Roorkee Water Conclave 2026 and ICDTSA 2026, Malaysia
@@ -78,7 +78,7 @@
 
 ###  Experience
 
-**AI Development Intern** : **Acism Software Private Limited, Pune** **(Mar 2026 – Present)**
+**AI Development Intern** : **Acism Software Private Limited, Pune** **(Mar 2026 – Oct 2026)**
 •	Architected an 8-stage multi-agent pipeline (AST extraction, behavior classification, context resolution, control/data flow mapping, graph assembly) using LangGraph to convert legacy source code into structured execution graphs across multiple projects.
 •	Designed a hybrid rule-based and local LLM (Qwen2.5-Coder via Ollama) classification system with confidence-scored fallback, replacing hardcoded pattern-matching and improving node-classification generalizability.
 •	Implemented MCP tool-calling with Fernet-encrypted intermediate outputs, enabling secure, auditable pipeline execution.
